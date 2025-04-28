@@ -38,9 +38,11 @@ section#telefone {
 }
 
 section#redes-sociais img {
-    position: absolute;
+    position: relative;
     top: 20%;
-    left: 97%;
+    left: 94%;
     height: 50px;
     width: 50px;
+    padding: 8px 0px;
+    border-radius: 100%;
 }
